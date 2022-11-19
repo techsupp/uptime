@@ -11,6 +11,18 @@ sites:
     url: https://benefitsystems.pl
   - name: djtms
     url: https://djtms.pl
+ - name: emultisport
+    url: https://emultisport.pl
+ - name: Yes2Move
+    url: https://yes2move.com
+ - name: MyBenefit
+    url: https://mybenefit.pl
+ - name: Sklep Y2M
+    url: https://sklep.yes2move.com
+ - name: Onet.pl
+    url: https://Onet.pl
+ - name: wp.pl
+    url: https://wp.pl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
