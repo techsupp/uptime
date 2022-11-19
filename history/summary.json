@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/djtms.pl.ico",
     "slug": "d-jtms-pl",
     "status": "down",
-    "uptime": "2.59%",
-    "uptimeDay": "2.59%",
-    "uptimeWeek": "2.59%",
-    "uptimeMonth": "2.59%",
-    "uptimeYear": "2.59%",
+    "uptime": "0.50%",
+    "uptimeDay": "0.50%",
+    "uptimeWeek": "0.50%",
+    "uptimeMonth": "0.50%",
+    "uptimeYear": "0.50%",
     "time": 103,
     "timeDay": 103,
     "timeWeek": 103,
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-11-19": 0
+      "2022-11-19": 3
     }
   },
   {
