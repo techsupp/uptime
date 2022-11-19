@@ -11,17 +11,17 @@ sites:
     url: https://benefitsystems.pl
   - name: DJtms.pl
     url: https://djtms.pl
- - name: EMultiSport
+  - name: EMultiSport
     url: https://emultisport.pl
- - name: Yes2Move.com
+  - name: Yes2Move.com
     url: https://yes2move.com
- - name: MyBenefit.pl
+  - name: MyBenefit.pl
     url: https://mybenefit.pl
- - name: Sklep Y2M
+  - name: Sklep Y2M
     url: https://sklep.yes2move.com
- - name: Onet.pl
+  - name: Onet.pl
     url: https://Onet.pl
- - name: wp.pl
+  - name: wp.pl
     url: https://wp.pl
 
 status-website:
