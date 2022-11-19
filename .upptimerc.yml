@@ -9,13 +9,13 @@ sites:
     url: https://kartamultisport.pl
   - name: BenefitSystems
     url: https://benefitsystems.pl
-  - name: djtms
+  - name: DJtms.pl
     url: https://djtms.pl
- - name: emultisport
+ - name: EMultiSport
     url: https://emultisport.pl
- - name: Yes2Move
+ - name: Yes2Move.com
     url: https://yes2move.com
- - name: MyBenefit
+ - name: MyBenefit.pl
     url: https://mybenefit.pl
  - name: Sklep Y2M
     url: https://sklep.yes2move.com
