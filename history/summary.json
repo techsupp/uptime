@@ -4,10 +4,10 @@
     "url": "https://www.zdrofit.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zdrofit.pl.ico",
     "slug": "zdrofit-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 2824,
@@ -16,6 +16,7 @@
     "timeMonth": 2652,
     "timeYear": 2824,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-12-22": 30,
       "2022-11-29": 47
     }
@@ -25,19 +26,19 @@
     "url": "https://kartamultisport.pl",
     "icon": "https://icons.duckduckgo.com/ip3/kartamultisport.pl.ico",
     "slug": "karta-multi-sport",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2695,
-    "timeDay": 3162,
-    "timeWeek": 2731,
-    "timeMonth": 2687,
-    "timeYear": 2695,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 2699,
+    "timeDay": 3042,
+    "timeWeek": 2755,
+    "timeMonth": 2695,
+    "timeYear": 2699,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 12
     }
   },
   {
@@ -101,10 +102,10 @@
     "url": "https://yes2move.com",
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1742,
@@ -113,6 +114,7 @@
     "timeMonth": 1725,
     "timeYear": 1742,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-12-01": 25
     }
   },
@@ -145,9 +147,9 @@
     "url": "https://sklep.yes2move.com",
     "icon": "https://icons.duckduckgo.com/ip3/sklep.yes2move.com.ico",
     "slug": "sklep-y2-m",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.30%",
@@ -157,6 +159,7 @@
     "timeMonth": 1198,
     "timeYear": 1278,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2023-01-13": 486,
       "2023-01-12": 90,
       "2023-01-04": 95
