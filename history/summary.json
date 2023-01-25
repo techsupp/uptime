@@ -25,10 +25,10 @@
     "url": "https://kartamultisport.pl",
     "icon": "https://icons.duckduckgo.com/ip3/kartamultisport.pl.ico",
     "slug": "karta-multi-sport",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2695,
@@ -36,7 +36,9 @@
     "timeWeek": 2731,
     "timeMonth": 2687,
     "timeYear": 2695,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "BenefitSystems",
