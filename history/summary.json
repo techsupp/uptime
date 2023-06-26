@@ -217,9 +217,9 @@
     "url": "https://wp.pl",
     "icon": "https://icons.duckduckgo.com/ip3/wp.pl.ico",
     "slug": "wp-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -229,6 +229,7 @@
     "timeMonth": 2222,
     "timeYear": 2249,
     "dailyMinutesDown": {
+      "2023-06-26": 0,
       "2023-01-25": 46
     }
   }
