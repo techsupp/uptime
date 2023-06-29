@@ -31,9 +31,9 @@
     "url": "https://kartamultisport.pl",
     "icon": "https://icons.duckduckgo.com/ip3/kartamultisport.pl.ico",
     "slug": "karta-multi-sport",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
@@ -43,6 +43,7 @@
     "timeMonth": 2988,
     "timeYear": 2934,
     "dailyMinutesDown": {
+      "2023-06-29": 0,
       "2023-06-06": 32,
       "2023-01-25": 47
     }
