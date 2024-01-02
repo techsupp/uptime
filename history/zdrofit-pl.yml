@@ -1,7 +1,7 @@
 url: https://www.zdrofit.pl
-status: up
-code: 200
-responseTime: 6828
-lastUpdated: 2024-01-02T17:54:23.683Z
+status: down
+code: 500
+responseTime: 1952
+lastUpdated: 2024-01-02T21:09:32.135Z
 startTime: 2022-11-19T06:45:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
