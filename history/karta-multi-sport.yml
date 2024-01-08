@@ -1,7 +1,7 @@
 url: https://kartamultisport.pl
-status: up
-code: 200
-responseTime: 2532
-lastUpdated: 2024-01-07T23:08:03.319Z
+status: down
+code: 503
+responseTime: 8500
+lastUpdated: 2024-01-08T23:08:44.831Z
 startTime: 2022-11-19T06:46:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
