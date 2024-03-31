@@ -6,9 +6,9 @@
     "slug": "zdrofit-pl",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.79%",
     "time": 2544,
     "timeDay": 2096,
@@ -16,7 +16,6 @@
     "timeMonth": 2440,
     "timeYear": 2492,
     "dailyMinutesDown": {
-      "2024-03-30": 12,
       "2024-03-18": 17,
       "2024-03-16": 45,
       "2024-03-04": 25,
@@ -45,7 +44,7 @@
     "time": 2717,
     "timeDay": 2109,
     "timeWeek": 1765,
-    "timeMonth": 1664,
+    "timeMonth": 1659,
     "timeYear": 2647,
     "dailyMinutesDown": {
       "2024-02-19": 37,
@@ -80,7 +79,7 @@
     "time": 1958,
     "timeDay": 2873,
     "timeWeek": 2325,
-    "timeMonth": 2079,
+    "timeMonth": 2072,
     "timeYear": 1980,
     "dailyMinutesDown": {
       "2024-03-24": 51,
@@ -110,7 +109,7 @@
     "time": 114,
     "timeDay": 69,
     "timeWeek": 88,
-    "timeMonth": 94,
+    "timeMonth": 92,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -128,7 +127,7 @@
     "time": 684,
     "timeDay": 861,
     "timeWeek": 707,
-    "timeMonth": 694,
+    "timeMonth": 691,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2023-10-23": 109,
@@ -149,7 +148,7 @@
     "time": 1706,
     "timeDay": 1417,
     "timeWeek": 1480,
-    "timeMonth": 1409,
+    "timeMonth": 1406,
     "timeYear": 1620,
     "dailyMinutesDown": {
       "2024-03-04": 508,
@@ -171,7 +170,7 @@
     "time": 2736,
     "timeDay": 3059,
     "timeWeek": 2604,
-    "timeMonth": 2621,
+    "timeMonth": 2616,
     "timeYear": 2735,
     "dailyMinutesDown": {
       "2023-04-20": 18
@@ -191,7 +190,7 @@
     "time": 1087,
     "timeDay": 1146,
     "timeWeek": 976,
-    "timeMonth": 927,
+    "timeMonth": 925,
     "timeYear": 1037,
     "dailyMinutesDown": {
       "2024-03-19": 28,
@@ -226,7 +225,7 @@
     "time": 1401,
     "timeDay": 1077,
     "timeWeek": 847,
-    "timeMonth": 1215,
+    "timeMonth": 1212,
     "timeYear": 1381,
     "dailyMinutesDown": {
       "2024-03-12": 16,
@@ -256,7 +255,7 @@
     "time": 2188,
     "timeDay": 2692,
     "timeWeek": 2159,
-    "timeMonth": 2091,
+    "timeMonth": 2078,
     "timeYear": 2145,
     "dailyMinutesDown": {
       "2023-06-26": 23
