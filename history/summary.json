@@ -40,12 +40,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 2710,
     "timeDay": 2014,
     "timeWeek": 2297,
     "timeMonth": 3358,
-    "timeYear": 2618,
+    "timeYear": 2610,
     "dailyMinutesDown": {
       "2024-05-23": 25,
       "2024-04-24": 384,
@@ -168,18 +168,20 @@
     "url": "https://mybenefit.pl",
     "icon": "https://icons.duckduckgo.com/ip3/mybenefit.pl.ico",
     "slug": "my-benefit-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2750,
-    "timeDay": 2819,
+    "time": 2751,
+    "timeDay": 2418,
     "timeWeek": 2785,
     "timeMonth": 2767,
     "timeYear": 2788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 0
+    }
   },
   {
     "name": "Sklep Y2M",
