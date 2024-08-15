@@ -9,6 +9,10 @@ sites:
     url: https://kartamultisport.pl
   - name: BenefitSystems
     url: https://benefitsystems.pl
+  - name: www.BenefitSystems.pl
+    url: https://www.benefitsystems.pl
+  - name: corp.BenefitSystems.pl
+    url: https://corp.benefitsystems.pl
   - name: DJtms.pl
     url: https://djtms.pl
   - name: EMultiSport
