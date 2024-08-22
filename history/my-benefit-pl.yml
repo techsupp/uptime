@@ -1,7 +1,7 @@
 url: https://mybenefit.pl
-status: up
-code: 200
-responseTime: 2727
-lastUpdated: 2024-08-21T23:09:45.635Z
+status: down
+code: 500
+responseTime: 3627
+lastUpdated: 2024-08-22T20:55:34.943Z
 startTime: 2022-11-19T07:06:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
