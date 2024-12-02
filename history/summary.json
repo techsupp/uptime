@@ -308,19 +308,19 @@
     "url": "https://wp.pl",
     "icon": "https://icons.duckduckgo.com/ip3/wp.pl.ico",
     "slug": "wp-pl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 2151,
-    "timeDay": 2700,
-    "timeWeek": 2066,
-    "timeMonth": 2139,
+    "time": 2150,
+    "timeDay": 2387,
+    "timeWeek": 2067,
+    "timeMonth": 2137,
     "timeYear": 2147,
     "dailyMinutesDown": {
-      "2024-12-02": 0,
+      "2024-12-02": 42,
       "2024-05-24": 35
     }
   }
