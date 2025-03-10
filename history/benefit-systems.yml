@@ -1,7 +1,7 @@
 url: https://benefitsystems.pl
-status: up
-code: 200
-responseTime: 1627
-lastUpdated: 2025-03-10T18:48:19.544Z
+status: down
+code: 503
+responseTime: 970
+lastUpdated: 2025-03-10T19:21:54.091Z
 startTime: 2022-11-19T06:46:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
