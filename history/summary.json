@@ -145,19 +145,19 @@
     "url": "https://corp.benefitsystems.pl",
     "icon": "https://icons.duckduckgo.com/ip3/corp.benefitsystems.pl.ico",
     "slug": "corp-benefit-systems-pl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 549,
-    "timeWeek": 647,
-    "timeMonth": 607,
-    "timeYear": 589,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 590,
+    "timeDay": 630,
+    "timeWeek": 663,
+    "timeMonth": 613,
+    "timeYear": 590,
     "dailyMinutesDown": {
-      "2025-05-27": 0
+      "2025-05-27": 39
     }
   },
   {
@@ -296,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2025-05-27": 644,
+      "2025-05-27": 683,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
