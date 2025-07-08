@@ -1,7 +1,7 @@
 url: https://wp.pl
-status: up
-code: 200
-responseTime: 1701
-lastUpdated: 2025-07-07T23:12:18.025Z
+status: down
+code: 502
+responseTime: 7199
+lastUpdated: 2025-07-08T21:50:31.500Z
 startTime: 2022-11-19T07:07:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
