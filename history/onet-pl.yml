@@ -1,7 +1,7 @@
 url: https://Onet.pl
-status: up
-code: 200
-responseTime: 494
-lastUpdated: 2025-09-07T23:09:53.849Z
+status: down
+code: 429
+responseTime: 1424
+lastUpdated: 2025-09-07T23:12:16.247Z
 startTime: 2022-11-19T07:06:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
