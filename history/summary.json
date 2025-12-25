@@ -255,15 +255,15 @@
     "url": "https://mybenefit.pl",
     "icon": "https://icons.duckduckgo.com/ip3/mybenefit.pl.ico",
     "slug": "my-benefit-pl",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "87.22%",
-    "uptimeWeek": "90.02%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "87.19%",
+    "uptimeWeek": "90.54%",
     "uptimeMonth": "88.20%",
-    "uptimeYear": "98.70%",
-    "time": 3700,
+    "uptimeYear": "98.72%",
+    "time": 3699,
     "timeDay": 212,
-    "timeWeek": 414,
+    "timeWeek": 424,
     "timeMonth": 1672,
     "timeYear": 3684,
     "dailyMinutesDown": {
@@ -312,8 +312,7 @@
       "2025-03-22": 30,
       "2025-03-20": 19,
       "2025-03-10": 35,
-      "2025-02-22": 19,
-      "2025-02-21": 73
+      "2025-02-22": 19
     }
   },
   {
