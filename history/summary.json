@@ -224,7 +224,7 @@
     "slug": "yes2-move-com",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "75.49%",
+    "uptimeDay": "77.27%",
     "uptimeWeek": "80.55%",
     "uptimeMonth": "95.52%",
     "uptimeYear": "99.46%",
@@ -257,14 +257,14 @@
     "url": "https://mybenefit.pl",
     "icon": "https://icons.duckduckgo.com/ip3/mybenefit.pl.ico",
     "slug": "my-benefit-pl",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "77.61%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "77.97%",
     "uptimeWeek": "86.90%",
-    "uptimeMonth": "85.72%",
-    "uptimeYear": "98.81%",
+    "uptimeMonth": "86.19%",
+    "uptimeYear": "98.85%",
     "time": 3466,
-    "timeDay": 214,
+    "timeDay": 208,
     "timeWeek": 411,
     "timeMonth": 1081,
     "timeYear": 3393,
@@ -293,7 +293,7 @@
       "2025-12-12": 958,
       "2025-12-11": 1148,
       "2025-12-10": 844,
-      "2025-12-09": 299
+      "2025-12-09": 93
     }
   },
   {
