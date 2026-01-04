@@ -257,13 +257,13 @@
     "url": "https://mybenefit.pl",
     "icon": "https://icons.duckduckgo.com/ip3/mybenefit.pl.ico",
     "slug": "my-benefit-pl",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "92.34%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "92.31%",
     "uptimeWeek": "86.29%",
-    "uptimeMonth": "86.39%",
-    "uptimeYear": "98.87%",
-    "time": 3436,
+    "uptimeMonth": "86.70%",
+    "uptimeYear": "98.89%",
+    "time": 3435,
     "timeDay": 212,
     "timeWeek": 412,
     "timeMonth": 1031,
@@ -293,7 +293,7 @@
       "2025-12-13": 97,
       "2025-12-12": 958,
       "2025-12-11": 1148,
-      "2025-12-10": 705
+      "2025-12-10": 570
     }
   },
   {
@@ -302,7 +302,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sklep.yes2move.com.ico",
     "slug": "sklep-y2-m",
     "status": "down",
-    "uptime": "78.26%",
+    "uptime": "78.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
