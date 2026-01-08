@@ -226,7 +226,7 @@
     "uptime": "99.69%",
     "uptimeDay": "20.15%",
     "uptimeWeek": "72.05%",
-    "uptimeMonth": "92.60%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.21%",
     "time": 1349,
     "timeDay": 345,
@@ -234,7 +234,7 @@
     "timeMonth": 897,
     "timeYear": 1262,
     "dailyMinutesDown": {
-      "2026-01-08": 554,
+      "2026-01-08": 583,
       "2026-01-07": 728,
       "2026-01-02": 928,
       "2026-01-01": 1033,
@@ -259,19 +259,19 @@
     "url": "https://mybenefit.pl",
     "icon": "https://icons.duckduckgo.com/ip3/mybenefit.pl.ico",
     "slug": "my-benefit-pl",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "90.41%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "90.37%",
     "uptimeWeek": "86.86%",
-    "uptimeMonth": "88.37%",
-    "uptimeYear": "99.03%",
-    "time": 3334,
+    "uptimeMonth": "88.89%",
+    "uptimeYear": "99.07%",
+    "time": 3335,
     "timeDay": 223,
     "timeWeek": 321,
     "timeMonth": 542,
     "timeYear": 3265,
     "dailyMinutesDown": {
-      "2026-01-08": 117,
+      "2026-01-08": 118,
       "2026-01-07": 186,
       "2026-01-06": 262,
       "2026-01-04": 156,
@@ -297,7 +297,7 @@
       "2025-12-14": 45,
       "2025-12-13": 97,
       "2025-12-12": 958,
-      "2025-12-11": 380
+      "2025-12-11": 151
     }
   },
   {
