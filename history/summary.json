@@ -222,19 +222,19 @@
     "url": "https://yes2move.com",
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "30.35%",
-    "uptimeWeek": "32.09%",
-    "uptimeMonth": "78.98%",
-    "uptimeYear": "98.25%",
-    "time": 984,
-    "timeDay": 409,
+    "uptimeDay": "32.50%",
+    "uptimeWeek": "32.17%",
+    "uptimeMonth": "79.09%",
+    "uptimeYear": "98.26%",
+    "time": 983,
+    "timeDay": 398,
     "timeWeek": 356,
-    "timeMonth": 389,
-    "timeYear": 838,
+    "timeMonth": 388,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2026-01-23": 317,
+      "2026-01-23": 318,
       "2026-01-22": 1009,
       "2026-01-21": 1118,
       "2026-01-20": 920,
@@ -244,7 +244,7 @@
       "2026-01-16": 794,
       "2026-01-15": 855,
       "2026-01-14": 546,
-      "2026-01-13": 793
+      "2026-01-13": 744
     }
   },
   {
@@ -252,9 +252,9 @@
     "url": "https://mybenefit.pl",
     "icon": "https://icons.duckduckgo.com/ip3/mybenefit.pl.ico",
     "slug": "my-benefit-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.52%",
     "uptimeMonth": "90.54%",
     "uptimeYear": "99.17%",
@@ -264,6 +264,7 @@
     "timeMonth": 505,
     "timeYear": 3034,
     "dailyMinutesDown": {
+      "2026-01-23": 0,
       "2026-01-19": 72,
       "2026-01-18": 46,
       "2026-01-17": 48,
@@ -289,8 +290,7 @@
       "2025-12-25": 169,
       "2025-12-24": 50,
       "2025-12-23": 105,
-      "2025-12-22": 214,
-      "2025-12-21": 26
+      "2025-12-22": 214
     }
   },
   {
@@ -303,7 +303,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.00%",
+    "uptimeYear": "37.01%",
     "time": 1515,
     "timeDay": 0,
     "timeWeek": 0,
