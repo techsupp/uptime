@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.14%",
+    "uptimeYear": "97.16%",
     "time": 1533,
     "timeDay": 1349,
     "timeWeek": 1346,
@@ -58,8 +58,7 @@
       "2025-02-23": 302,
       "2025-02-19": 70,
       "2025-02-13": 25,
-      "2025-02-06": 48,
-      "2025-01-28": 34
+      "2025-02-06": 48
     }
   },
   {
@@ -222,18 +221,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
     "status": "down",
-    "uptime": "99.44%",
+    "uptime": "99.43%",
     "uptimeDay": "44.74%",
-    "uptimeWeek": "37.15%",
-    "uptimeMonth": "78.51%",
-    "uptimeYear": "98.21%",
+    "uptimeWeek": "37.03%",
+    "uptimeMonth": "78.28%",
+    "uptimeYear": "98.19%",
     "time": 907,
     "timeDay": 374,
     "timeWeek": 374,
     "timeMonth": 376,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2026-01-27": 749,
+      "2026-01-28": 57,
+      "2026-01-27": 795,
       "2026-01-26": 585,
       "2026-01-25": 981,
       "2026-01-24": 827,
@@ -253,7 +253,7 @@
     "slug": "my-benefit-pl",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "90.04%",
+    "uptimeDay": "94.41%",
     "uptimeWeek": "97.22%",
     "uptimeMonth": "90.87%",
     "uptimeYear": "99.14%",
@@ -306,7 +306,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.29%",
+    "uptimeYear": "38.31%",
     "time": 1537,
     "timeDay": 0,
     "timeWeek": 0,
@@ -537,8 +537,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
