@@ -157,7 +157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/corp.benefitsystems.pl.ico",
     "slug": "corp-benefit-systems-pl",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -220,12 +220,12 @@
     "slug": "yes2-move-com",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "28.75%",
-    "uptimeWeek": "29.73%",
+    "uptimeDay": "35.06%",
+    "uptimeWeek": "30.76%",
     "uptimeMonth": "73.28%",
     "uptimeYear": "97.77%",
     "time": 792,
-    "timeDay": 335,
+    "timeDay": 354,
     "timeWeek": 362,
     "timeMonth": 372,
     "timeYear": 697,
@@ -309,7 +309,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.31%",
+    "uptimeYear": "41.33%",
     "time": 1414,
     "timeDay": 0,
     "timeWeek": 0,
@@ -529,8 +529,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
