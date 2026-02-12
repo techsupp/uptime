@@ -220,13 +220,13 @@
     "slug": "yes2-move-com",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "44.97%",
+    "uptimeDay": "49.44%",
     "uptimeWeek": "37.34%",
     "uptimeMonth": "68.66%",
     "uptimeYear": "97.39%",
     "time": 807,
-    "timeDay": 389,
-    "timeWeek": 348,
+    "timeDay": 379,
+    "timeWeek": 346,
     "timeMonth": 371,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -307,11 +307,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sklep.yes2move.com.ico",
     "slug": "sklep-y2-m",
     "status": "down",
-    "uptime": "78.97%",
+    "uptime": "78.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.41%",
+    "uptimeYear": "42.43%",
     "time": 1427,
     "timeDay": 0,
     "timeWeek": 0,
@@ -527,8 +527,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
-      "2025-02-13": 1440,
-      "2025-02-12": 1440
+      "2025-02-13": 1440
     }
   },
   {
