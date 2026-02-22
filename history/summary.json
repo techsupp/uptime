@@ -12,7 +12,7 @@
     "uptimeYear": "97.18%",
     "time": 1507,
     "timeDay": 1351,
-    "timeWeek": 1387,
+    "timeWeek": 1358,
     "timeMonth": 1357,
     "timeYear": 1343,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
     "uptimeYear": "99.84%",
     "time": 1888,
     "timeDay": 1717,
-    "timeWeek": 1861,
+    "timeWeek": 1852,
     "timeMonth": 1700,
     "timeYear": 1882,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
     "uptimeYear": "99.89%",
     "time": 2531,
     "timeDay": 2201,
-    "timeWeek": 2415,
+    "timeWeek": 2421,
     "timeMonth": 2989,
     "timeYear": 2841,
     "dailyMinutesDown": {
@@ -135,7 +135,7 @@
     "uptimeYear": "99.93%",
     "time": 1104,
     "timeDay": 641,
-    "timeWeek": 772,
+    "timeWeek": 702,
     "timeMonth": 1411,
     "timeYear": 1307,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
     "uptimeYear": "99.98%",
     "time": 636,
     "timeDay": 696,
-    "timeWeek": 688,
+    "timeWeek": 693,
     "timeMonth": 680,
     "timeYear": 655,
     "dailyMinutesDown": {
@@ -181,7 +181,7 @@
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 74,
-    "timeWeek": 149,
+    "timeWeek": 158,
     "timeMonth": 183,
     "timeYear": 171,
     "dailyMinutesDown": {}
@@ -199,7 +199,7 @@
     "uptimeYear": "99.85%",
     "time": 536,
     "timeDay": 583,
-    "timeWeek": 546,
+    "timeWeek": 551,
     "timeMonth": 558,
     "timeYear": 522,
     "dailyMinutesDown": {
@@ -214,15 +214,15 @@
     "url": "https://yes2move.com",
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "31.77%",
-    "uptimeWeek": "37.62%",
-    "uptimeMonth": "73.95%",
-    "uptimeYear": "97.83%",
-    "time": 704,
-    "timeDay": 396,
-    "timeWeek": 376,
+    "uptimeDay": "32.92%",
+    "uptimeWeek": "37.96%",
+    "uptimeMonth": "74.03%",
+    "uptimeYear": "97.84%",
+    "time": 703,
+    "timeDay": 369,
+    "timeWeek": 373,
     "timeMonth": 385,
     "timeYear": 626,
     "dailyMinutesDown": {
@@ -239,7 +239,7 @@
       "2026-02-12": 726,
       "2026-02-11": 791,
       "2026-02-10": 1038,
-      "2026-02-09": 46
+      "2026-02-09": 12
     }
   },
   {
