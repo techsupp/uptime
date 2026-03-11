@@ -103,7 +103,7 @@
     "timeDay": 5136,
     "timeWeek": 3236,
     "timeMonth": 2796,
-    "timeYear": 2942,
+    "timeYear": 2945,
     "dailyMinutesDown": {
       "2026-03-05": 39,
       "2025-10-23": 78,
@@ -129,7 +129,7 @@
     "timeDay": 7322,
     "timeWeek": 1679,
     "timeMonth": 979,
-    "timeYear": 1379,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2025-11-22": 29,
       "2025-10-23": 78
@@ -197,19 +197,19 @@
     "url": "https://yes2move.com",
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "58.99%",
-    "uptimeWeek": "45.40%",
-    "uptimeMonth": "72.35%",
-    "uptimeYear": "97.70%",
-    "time": 678,
-    "timeDay": 359,
-    "timeWeek": 364,
-    "timeMonth": 381,
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "58.95%",
+    "uptimeWeek": "46.01%",
+    "uptimeMonth": "72.50%",
+    "uptimeYear": "97.71%",
+    "time": 677,
+    "timeDay": 345,
+    "timeWeek": 361,
+    "timeMonth": 380,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2026-03-11": 386,
+      "2026-03-11": 387,
       "2026-03-10": 728,
       "2026-03-09": 647,
       "2026-03-08": 851,
@@ -223,7 +223,7 @@
       "2026-02-28": 783,
       "2026-02-27": 1129,
       "2026-02-26": 953,
-      "2026-02-25": 87
+      "2026-02-25": 23
     }
   },
   {
@@ -293,7 +293,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.96%",
+    "uptimeYear": "49.97%",
     "time": 1546,
     "timeDay": 0,
     "timeWeek": 0,
