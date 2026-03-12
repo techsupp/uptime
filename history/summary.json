@@ -74,7 +74,7 @@
     "timeDay": 1479,
     "timeWeek": 1592,
     "timeMonth": 1717,
-    "timeYear": 1873,
+    "timeYear": 1874,
     "dailyMinutesDown": {
       "2025-12-16": 34,
       "2025-12-15": 15,
@@ -103,7 +103,7 @@
     "timeDay": 2287,
     "timeWeek": 3039,
     "timeMonth": 2776,
-    "timeYear": 2973,
+    "timeYear": 2977,
     "dailyMinutesDown": {
       "2026-03-05": 39,
       "2025-10-23": 78,
@@ -129,7 +129,7 @@
     "timeDay": 484,
     "timeWeek": 1662,
     "timeMonth": 913,
-    "timeYear": 1404,
+    "timeYear": 1407,
     "dailyMinutesDown": {
       "2025-11-22": 29,
       "2025-10-23": 78
@@ -150,7 +150,7 @@
     "timeDay": 589,
     "timeWeek": 698,
     "timeMonth": 693,
-    "timeYear": 661,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2025-10-23": 78,
       "2025-05-27": 39
@@ -197,19 +197,19 @@
     "url": "https://yes2move.com",
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "19.99%",
-    "uptimeWeek": "41.16%",
-    "uptimeMonth": "71.08%",
-    "uptimeYear": "97.59%",
-    "time": 667,
-    "timeDay": 378,
-    "timeWeek": 363,
-    "timeMonth": 380,
-    "timeYear": 568,
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "21.90%",
+    "uptimeWeek": "41.43%",
+    "uptimeMonth": "72.71%",
+    "uptimeYear": "97.73%",
+    "time": 666,
+    "timeDay": 358,
+    "timeWeek": 360,
+    "timeMonth": 379,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2026-03-12": 1078,
+      "2026-03-12": 1079,
       "2026-03-11": 895,
       "2026-03-10": 728,
       "2026-03-09": 647,
@@ -222,8 +222,7 @@
       "2026-03-02": 1002,
       "2026-03-01": 965,
       "2026-02-28": 783,
-      "2026-02-27": 1129,
-      "2026-02-26": 11
+      "2026-02-27": 423
     }
   },
   {
@@ -241,7 +240,7 @@
     "timeDay": 889,
     "timeWeek": 947,
     "timeMonth": 1037,
-    "timeYear": 2724,
+    "timeYear": 2723,
     "dailyMinutesDown": {
       "2026-03-05": 58,
       "2026-03-04": 49,
@@ -293,7 +292,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.34%",
+    "uptimeYear": "50.35%",
     "time": 1547,
     "timeDay": 0,
     "timeWeek": 0,
@@ -551,7 +550,7 @@
     "timeDay": 1498,
     "timeWeek": 1873,
     "timeMonth": 1962,
-    "timeYear": 2155,
+    "timeYear": 2157,
     "dailyMinutesDown": {
       "2025-07-08": 23,
       "2025-05-10": 36,
