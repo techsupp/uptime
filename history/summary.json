@@ -196,8 +196,8 @@
     "slug": "yes2-move-com",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "32.03%",
-    "uptimeWeek": "28.53%",
+    "uptimeDay": "36.94%",
+    "uptimeWeek": "29.24%",
     "uptimeMonth": "66.03%",
     "uptimeYear": "97.17%",
     "time": 615,
@@ -231,7 +231,7 @@
     "slug": "my-benefit-pl",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "78.98%",
+    "uptimeDay": "83.56%",
     "uptimeWeek": "95.33%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "99.05%",
@@ -294,7 +294,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.37%",
+    "uptimeYear": "53.38%",
     "time": 1549,
     "timeDay": 0,
     "timeWeek": 0,
@@ -470,8 +470,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
