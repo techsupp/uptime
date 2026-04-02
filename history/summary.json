@@ -192,17 +192,17 @@
     "slug": "yes2-move-com",
     "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "33.34%",
-    "uptimeWeek": "35.92%",
-    "uptimeMonth": "62.02%",
+    "uptimeDay": "35.83%",
+    "uptimeWeek": "36.78%",
+    "uptimeMonth": "62.00%",
     "uptimeYear": "96.83%",
-    "time": 590,
-    "timeDay": 332,
-    "timeWeek": 425,
-    "timeMonth": 370,
+    "time": 589,
+    "timeDay": 358,
+    "timeWeek": 377,
+    "timeMonth": 371,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2026-04-02": 274,
+      "2026-04-02": 341,
       "2026-04-01": 970,
       "2026-03-31": 1111,
       "2026-03-30": 660,
@@ -219,7 +219,7 @@
       "2026-03-19": 1127,
       "2026-03-18": 1035,
       "2026-03-17": 1071,
-      "2026-03-16": 710
+      "2026-03-16": 653
     }
   },
   {
@@ -293,7 +293,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.94%",
+    "uptimeYear": "55.97%",
     "time": 1557,
     "timeDay": 0,
     "timeWeek": 0,
