@@ -189,16 +189,16 @@
     "url": "https://yes2move.com",
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "35.03%",
-    "uptimeWeek": "37.37%",
-    "uptimeMonth": "63.82%",
-    "uptimeYear": "96.98%",
-    "time": 567,
-    "timeDay": 363,
+    "uptimeDay": "38.29%",
+    "uptimeWeek": "38.14%",
+    "uptimeMonth": "63.92%",
+    "uptimeYear": "96.99%",
+    "time": 566,
+    "timeDay": 340,
     "timeWeek": 371,
-    "timeMonth": 369,
+    "timeMonth": 368,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2026-04-05": 619,
@@ -218,7 +218,7 @@
       "2026-03-22": 1151,
       "2026-03-21": 868,
       "2026-03-20": 972,
-      "2026-03-19": 82
+      "2026-03-19": 38
     }
   },
   {
@@ -292,7 +292,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.85%",
+    "uptimeYear": "56.87%",
     "time": 1551,
     "timeDay": 0,
     "timeWeek": 0,
