@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.82%",
     "time": 1372,
     "timeDay": 177,
     "timeWeek": 159,
@@ -47,8 +47,7 @@
       "2025-04-16": 766,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440
+      "2025-04-13": 1440
     }
   },
   {
@@ -184,18 +183,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
     "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "29.78%",
-    "uptimeWeek": "29.44%",
-    "uptimeMonth": "57.93%",
-    "uptimeYear": "96.49%",
+    "uptime": "98.96%",
+    "uptimeDay": "28.32%",
+    "uptimeWeek": "28.42%",
+    "uptimeMonth": "57.69%",
+    "uptimeYear": "96.47%",
     "time": 580,
-    "timeDay": 326,
+    "timeDay": 347,
     "timeWeek": 416,
     "timeMonth": 381,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2026-04-11": 1011,
+      "2026-04-12": 84,
+      "2026-04-11": 1030,
       "2026-04-10": 1141,
       "2026-04-09": 1074,
       "2026-04-08": 856,
@@ -284,11 +284,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sklep.yes2move.com.ico",
     "slug": "sklep-y2-m",
     "status": "down",
-    "uptime": "79.97%",
+    "uptime": "79.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.57%",
+    "uptimeYear": "58.59%",
     "time": 1486,
     "timeDay": 0,
     "timeWeek": 0,
@@ -445,8 +445,7 @@
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440
+      "2025-04-13": 1440
     }
   },
   {
