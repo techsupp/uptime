@@ -179,17 +179,18 @@
     "slug": "yes2-move-com",
     "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "43.59%",
-    "uptimeWeek": "39.02%",
-    "uptimeMonth": "57.06%",
-    "uptimeYear": "96.42%",
+    "uptimeDay": "42.58%",
+    "uptimeWeek": "37.90%",
+    "uptimeMonth": "56.80%",
+    "uptimeYear": "96.40%",
     "time": 574,
-    "timeDay": 358,
+    "timeDay": 346,
     "timeWeek": 361,
     "timeMonth": 383,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2026-04-19": 787,
+      "2026-04-20": 87,
+      "2026-04-19": 813,
       "2026-04-18": 840,
       "2026-04-17": 516,
       "2026-04-16": 915,
@@ -217,18 +218,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mybenefit.pl.ico",
     "slug": "my-benefit-pl",
     "status": "down",
-    "uptime": "99.39%",
+    "uptime": "99.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "39.76%",
-    "uptimeMonth": "84.51%",
-    "uptimeYear": "97.92%",
+    "uptimeWeek": "38.64%",
+    "uptimeMonth": "84.26%",
+    "uptimeYear": "97.89%",
     "time": 2694,
     "timeDay": 181,
     "timeWeek": 516,
     "timeMonth": 859,
     "timeYear": 2489,
     "dailyMinutesDown": {
-      "2026-04-19": 1415,
+      "2026-04-20": 88,
+      "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
@@ -289,7 +291,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.76%",
+    "uptimeYear": "60.79%",
     "time": 1462,
     "timeDay": 0,
     "timeWeek": 0,
@@ -438,8 +440,7 @@
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   },
   {
@@ -479,8 +480,7 @@
       "2025-05-04": 17,
       "2025-05-02": 24,
       "2025-05-01": 25,
-      "2025-04-26": 15,
-      "2025-04-20": 20
+      "2025-04-26": 15
     }
   },
   {
@@ -502,8 +502,7 @@
     "dailyMinutesDown": {
       "2026-03-24": 103,
       "2025-07-08": 23,
-      "2025-05-10": 36,
-      "2025-04-20": 20
+      "2025-05-10": 36
     }
   }
 ]
