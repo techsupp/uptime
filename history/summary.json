@@ -120,11 +120,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/corp.benefitsystems.pl.ico",
     "slug": "corp-benefit-systems-pl",
     "status": "down",
-    "uptime": "98.32%",
+    "uptime": "98.31%",
     "uptimeDay": "28.61%",
     "uptimeWeek": "31.25%",
-    "uptimeMonth": "64.74%",
-    "uptimeYear": "97.02%",
+    "uptimeMonth": "64.48%",
+    "uptimeYear": "97.00%",
     "time": 609,
     "timeDay": 473,
     "timeWeek": 421,
@@ -152,7 +152,7 @@
       "2026-05-22": 794,
       "2026-05-23": 1015,
       "2026-05-24": 1043,
-      "2026-05-25": 1
+      "2026-05-25": 119
     }
   },
   {
@@ -200,12 +200,12 @@
     "uptime": "98.50%",
     "uptimeDay": "28.66%",
     "uptimeWeek": "31.43%",
-    "uptimeMonth": "37.30%",
-    "uptimeYear": "94.74%",
+    "uptimeMonth": "37.03%",
+    "uptimeYear": "94.72%",
     "time": 519,
     "timeDay": 406,
     "timeWeek": 313,
-    "timeMonth": 332,
+    "timeMonth": 333,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2026-04-24": 177,
@@ -239,7 +239,7 @@
       "2026-05-22": 791,
       "2026-05-23": 1001,
       "2026-05-24": 1043,
-      "2026-05-25": 1
+      "2026-05-25": 119
     }
   },
   {
@@ -248,11 +248,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mybenefit.pl.ico",
     "slug": "my-benefit-pl",
     "status": "down",
-    "uptime": "96.68%",
+    "uptime": "96.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.32%",
+    "uptimeYear": "88.30%",
     "time": 2532,
     "timeDay": 38,
     "timeWeek": 95,
@@ -303,7 +303,7 @@
       "2026-04-08": 52,
       "2026-04-12": 47,
       "2026-04-13": 109,
-      "2026-05-25": 17,
+      "2026-05-25": 134,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -356,7 +356,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.36%",
+    "uptimeYear": "70.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
