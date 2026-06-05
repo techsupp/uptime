@@ -50,16 +50,16 @@
     "url": "https://kartamultisport.pl",
     "icon": "https://icons.duckduckgo.com/ip3/kartamultisport.pl.ico",
     "slug": "karta-multi-sport",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "55.10%",
-    "uptimeWeek": "86.83%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "99.67%",
-    "time": 1794,
-    "timeDay": 993,
-    "timeWeek": 1092,
-    "timeMonth": 1368,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "55.23%",
+    "uptimeWeek": "85.64%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "99.65%",
+    "time": 1795,
+    "timeDay": 1179,
+    "timeWeek": 1145,
+    "timeMonth": 1385,
     "timeYear": 1791,
     "dailyMinutesDown": {
       "2025-07-31": 100,
@@ -69,7 +69,7 @@
       "2025-12-16": 34,
       "2026-06-02": 453,
       "2026-06-04": 356,
-      "2026-06-05": 518
+      "2026-06-05": 637
     }
   },
   {
@@ -78,11 +78,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/benefitsystems.pl.ico",
     "slug": "benefit-systems",
     "status": "down",
-    "uptime": "99.51%",
+    "uptime": "99.50%",
     "uptimeDay": "14.52%",
-    "uptimeWeek": "51.23%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "99.03%",
+    "uptimeWeek": "50.03%",
+    "uptimeMonth": "88.50%",
+    "uptimeYear": "99.01%",
     "time": 2595,
     "timeDay": 538,
     "timeWeek": 743,
@@ -96,7 +96,7 @@
       "2026-06-04": 1349,
       "2026-06-03": 1440,
       "2026-06-02": 1057,
-      "2026-06-05": 979
+      "2026-06-05": 1100
     }
   },
   {
@@ -105,11 +105,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.benefitsystems.pl.ico",
     "slug": "www-benefit-systems-pl",
     "status": "down",
-    "uptime": "99.43%",
+    "uptime": "99.42%",
     "uptimeDay": "14.54%",
-    "uptimeWeek": "51.24%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "99.03%",
+    "uptimeWeek": "50.03%",
+    "uptimeMonth": "88.50%",
+    "uptimeYear": "99.01%",
     "time": 1280,
     "timeDay": 520,
     "timeWeek": 726,
@@ -123,7 +123,7 @@
       "2026-06-04": 1348,
       "2026-06-03": 1440,
       "2026-06-02": 1056,
-      "2026-06-05": 979
+      "2026-06-05": 1100
     }
   },
   {
@@ -132,11 +132,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/corp.benefitsystems.pl.ico",
     "slug": "corp-benefit-systems-pl",
     "status": "down",
-    "uptime": "97.09%",
+    "uptime": "97.08%",
     "uptimeDay": "14.56%",
     "uptimeWeek": "26.40%",
-    "uptimeMonth": "37.52%",
-    "uptimeYear": "94.76%",
+    "uptimeMonth": "37.24%",
+    "uptimeYear": "94.73%",
     "time": 604,
     "timeDay": 399,
     "timeWeek": 655,
@@ -174,7 +174,7 @@
       "2026-06-04": 1348,
       "2026-06-03": 1440,
       "2026-06-02": 1056,
-      "2026-06-05": 979
+      "2026-06-05": 1100
     }
   },
   {
@@ -222,12 +222,12 @@
     "uptime": "98.13%",
     "uptimeDay": "14.59%",
     "uptimeWeek": "26.43%",
-    "uptimeMonth": "32.80%",
-    "uptimeYear": "93.37%",
+    "uptimeMonth": "32.79%",
+    "uptimeYear": "93.35%",
     "time": 502,
     "timeDay": 255,
     "timeWeek": 444,
-    "timeMonth": 322,
+    "timeMonth": 321,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2026-04-30": 1038,
@@ -267,7 +267,7 @@
       "2026-06-04": 1348,
       "2026-06-03": 1440,
       "2026-06-02": 1056,
-      "2026-06-05": 978
+      "2026-06-05": 1099
     }
   },
   {
@@ -276,11 +276,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mybenefit.pl.ico",
     "slug": "my-benefit-pl",
     "status": "down",
-    "uptime": "95.80%",
+    "uptime": "95.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.10%",
+    "uptimeYear": "85.08%",
     "time": 2487,
     "timeDay": 22,
     "timeWeek": 68,
@@ -331,7 +331,7 @@
       "2026-04-08": 52,
       "2026-04-12": 47,
       "2026-04-13": 109,
-      "2026-06-05": 1099,
+      "2026-06-05": 1221,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -395,7 +395,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.58%",
+    "uptimeYear": "73.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -506,17 +506,17 @@
     "url": "https://Onet.pl",
     "icon": "https://icons.duckduckgo.com/ip3/onet.pl.ico",
     "slug": "onet-pl",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "55.18%",
-    "uptimeWeek": "86.85%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "99.45%",
-    "time": 812,
-    "timeDay": 628,
-    "timeWeek": 600,
-    "timeMonth": 705,
-    "timeYear": 843,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "55.19%",
+    "uptimeWeek": "85.66%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "99.43%",
+    "time": 815,
+    "timeDay": 910,
+    "timeWeek": 663,
+    "timeMonth": 731,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2025-06-17": 33,
       "2025-08-26": 58,
@@ -534,7 +534,7 @@
       "2026-05-05": 194,
       "2026-06-02": 453,
       "2026-06-04": 356,
-      "2026-06-05": 517
+      "2026-06-05": 637
     }
   },
   {
