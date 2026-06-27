@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
     "time": 1100,
-    "timeDay": 148,
+    "timeDay": 113,
     "timeWeek": 132,
     "timeMonth": 156,
     "timeYear": 992,
@@ -55,8 +55,8 @@
     "uptimeMonth": "94.91%",
     "uptimeYear": "99.50%",
     "time": 1757,
-    "timeDay": 1728,
-    "timeWeek": 1505,
+    "timeDay": 1688,
+    "timeWeek": 1535,
     "timeMonth": 1215,
     "timeYear": 1735,
     "dailyMinutesDown": {
@@ -80,17 +80,17 @@
     "url": "https://benefitsystems.pl",
     "icon": "https://icons.duckduckgo.com/ip3/benefitsystems.pl.ico",
     "slug": "benefit-systems",
-    "status": "down",
+    "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "49.57%",
-    "uptimeWeek": "23.76%",
-    "uptimeMonth": "38.90%",
+    "uptimeDay": "49.24%",
+    "uptimeWeek": "23.77%",
+    "uptimeMonth": "38.86%",
     "uptimeYear": "94.87%",
     "time": 2253,
-    "timeDay": 524,
-    "timeWeek": 522,
-    "timeMonth": 598,
-    "timeYear": 2198,
+    "timeDay": 739,
+    "timeWeek": 567,
+    "timeMonth": 606,
+    "timeYear": 2196,
     "dailyMinutesDown": {
       "2025-10-23": 78,
       "2026-03-05": 39,
@@ -120,7 +120,8 @@
       "2026-06-23": 1352,
       "2026-06-24": 1270,
       "2026-06-25": 1235,
-      "2026-06-26": 726
+      "2026-06-26": 727,
+      "2026-06-27": 17
     }
   },
   {
@@ -128,16 +129,16 @@
     "url": "https://www.benefitsystems.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.benefitsystems.pl.ico",
     "slug": "www-benefit-systems-pl",
-    "status": "down",
+    "status": "up",
     "uptime": "97.22%",
-    "uptimeDay": "49.62%",
-    "uptimeWeek": "23.78%",
-    "uptimeMonth": "38.92%",
-    "uptimeYear": "94.88%",
-    "time": 1165,
-    "timeDay": 534,
-    "timeWeek": 540,
-    "timeMonth": 610,
+    "uptimeDay": "49.28%",
+    "uptimeWeek": "23.79%",
+    "uptimeMonth": "38.88%",
+    "uptimeYear": "94.87%",
+    "time": 1167,
+    "timeDay": 761,
+    "timeWeek": 588,
+    "timeMonth": 619,
     "timeYear": 1259,
     "dailyMinutesDown": {
       "2025-10-23": 78,
@@ -168,7 +169,8 @@
       "2026-06-23": 1352,
       "2026-06-24": 1269,
       "2026-06-25": 1235,
-      "2026-06-26": 726
+      "2026-06-26": 727,
+      "2026-06-27": 17
     }
   },
   {
@@ -176,16 +178,16 @@
     "url": "https://corp.benefitsystems.pl",
     "icon": "https://icons.duckduckgo.com/ip3/corp.benefitsystems.pl.ico",
     "slug": "corp-benefit-systems-pl",
-    "status": "down",
-    "uptime": "95.29%",
-    "uptimeDay": "49.67%",
-    "uptimeWeek": "23.80%",
-    "uptimeMonth": "29.07%",
+    "status": "up",
+    "uptime": "95.28%",
+    "uptimeDay": "49.31%",
+    "uptimeWeek": "23.82%",
+    "uptimeMonth": "29.03%",
     "uptimeYear": "91.21%",
     "time": 579,
-    "timeDay": 403,
-    "timeWeek": 396,
-    "timeMonth": 447,
+    "timeDay": 527,
+    "timeWeek": 423,
+    "timeMonth": 450,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2026-05-11": 449,
@@ -234,7 +236,8 @@
       "2026-06-23": 1352,
       "2026-06-24": 1269,
       "2026-06-25": 1235,
-      "2026-06-26": 724
+      "2026-06-26": 726,
+      "2026-06-27": 17
     }
   },
   {
@@ -249,8 +252,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 55,
-    "timeWeek": 49,
+    "timeDay": 68,
+    "timeWeek": 51,
     "timeMonth": 43,
     "timeYear": 157,
     "dailyMinutesDown": {}
@@ -267,7 +270,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 518,
-    "timeDay": 512,
+    "timeDay": 532,
     "timeWeek": 495,
     "timeMonth": 549,
     "timeYear": 529,
@@ -278,16 +281,16 @@
     "url": "https://yes2move.com",
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
-    "status": "down",
+    "status": "up",
     "uptime": "97.55%",
-    "uptimeDay": "49.73%",
-    "uptimeWeek": "23.83%",
-    "uptimeMonth": "29.10%",
+    "uptimeDay": "49.34%",
+    "uptimeWeek": "23.84%",
+    "uptimeMonth": "29.06%",
     "uptimeYear": "91.18%",
-    "time": 495,
-    "timeDay": 265,
-    "timeWeek": 276,
-    "timeMonth": 355,
+    "time": 494,
+    "timeDay": 356,
+    "timeWeek": 296,
+    "timeMonth": 357,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2026-05-11": 534,
@@ -337,7 +340,8 @@
       "2026-06-23": 1351,
       "2026-06-24": 1269,
       "2026-06-25": 1236,
-      "2026-06-26": 724
+      "2026-06-26": 725,
+      "2026-06-27": 17
     }
   },
   {
@@ -350,10 +354,10 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.51%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.32%",
+    "uptimeYear": "79.31%",
     "time": 2382,
-    "timeDay": 70,
-    "timeWeek": 81,
+    "timeDay": 106,
+    "timeWeek": 79,
     "timeMonth": 86,
     "timeYear": 1966,
     "dailyMinutesDown": {
@@ -470,7 +474,8 @@
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 228,
-      "2026-06-26": 1439,
+      "2026-06-27": 18,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440
     }
@@ -566,8 +571,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
-      "2025-06-28": 1440,
-      "2025-06-27": 1440
+      "2025-06-28": 1440
     }
   },
   {
@@ -582,8 +586,8 @@
     "uptimeMonth": "94.92%",
     "uptimeYear": "99.28%",
     "time": 807,
-    "timeDay": 608,
-    "timeWeek": 662,
+    "timeDay": 812,
+    "timeWeek": 679,
     "timeMonth": 608,
     "timeYear": 827,
     "dailyMinutesDown": {
@@ -622,8 +626,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2105,
-    "timeDay": 2600,
-    "timeWeek": 1958,
+    "timeDay": 2375,
+    "timeWeek": 2029,
     "timeMonth": 1984,
     "timeYear": 2083,
     "dailyMinutesDown": {
