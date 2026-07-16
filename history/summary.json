@@ -12,8 +12,8 @@
     "uptimeYear": "99.02%",
     "time": 1056,
     "timeDay": 205,
-    "timeWeek": 143,
-    "timeMonth": 140,
+    "timeWeek": 150,
+    "timeMonth": 139,
     "timeYear": 933,
     "dailyMinutesDown": {
       "2025-08-07": 22,
@@ -56,8 +56,8 @@
     "uptimeYear": "99.50%",
     "time": 1752,
     "timeDay": 1573,
-    "timeWeek": 1577,
-    "timeMonth": 1569,
+    "timeWeek": 1535,
+    "timeMonth": 1563,
     "timeYear": 1727,
     "dailyMinutesDown": {
       "2025-07-31": 100,
@@ -82,14 +82,14 @@
     "slug": "benefit-systems",
     "status": "down",
     "uptime": "98.00%",
-    "uptimeDay": "40.72%",
-    "uptimeWeek": "37.46%",
-    "uptimeMonth": "29.51%",
-    "uptimeYear": "92.69%",
+    "uptimeDay": "38.70%",
+    "uptimeWeek": "37.39%",
+    "uptimeMonth": "29.44%",
+    "uptimeYear": "92.67%",
     "time": 1945,
-    "timeDay": 527,
-    "timeWeek": 527,
-    "timeMonth": 551,
+    "timeDay": 466,
+    "timeWeek": 519,
+    "timeMonth": 554,
     "timeYear": 1771,
     "dailyMinutesDown": {
       "2026-06-07": 260,
@@ -130,7 +130,8 @@
       "2026-07-12": 992,
       "2026-07-13": 996,
       "2026-07-14": 912,
-      "2026-07-15": 847
+      "2026-07-15": 853,
+      "2026-07-16": 87
     }
   },
   {
@@ -139,15 +140,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.benefitsystems.pl.ico",
     "slug": "www-benefit-systems-pl",
     "status": "down",
-    "uptime": "96.19%",
-    "uptimeDay": "40.78%",
-    "uptimeWeek": "37.50%",
-    "uptimeMonth": "29.54%",
-    "uptimeYear": "92.69%",
+    "uptime": "96.18%",
+    "uptimeDay": "38.75%",
+    "uptimeWeek": "37.43%",
+    "uptimeMonth": "29.47%",
+    "uptimeYear": "92.67%",
     "time": 1087,
-    "timeDay": 502,
-    "timeWeek": 538,
-    "timeMonth": 549,
+    "timeDay": 436,
+    "timeWeek": 530,
+    "timeMonth": 552,
     "timeYear": 1084,
     "dailyMinutesDown": {
       "2026-06-07": 260,
@@ -188,7 +189,8 @@
       "2026-07-12": 992,
       "2026-07-13": 996,
       "2026-07-14": 912,
-      "2026-07-15": 845
+      "2026-07-15": 852,
+      "2026-07-16": 87
     }
   },
   {
@@ -197,15 +199,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/corp.benefitsystems.pl.ico",
     "slug": "corp-benefit-systems-pl",
     "status": "down",
-    "uptime": "96.19%",
-    "uptimeDay": "40.82%",
-    "uptimeWeek": "37.55%",
-    "uptimeMonth": "29.57%",
-    "uptimeYear": "92.69%",
+    "uptime": "96.18%",
+    "uptimeDay": "38.80%",
+    "uptimeWeek": "37.48%",
+    "uptimeMonth": "29.50%",
+    "uptimeYear": "92.68%",
     "time": 560,
-    "timeDay": 874,
-    "timeWeek": 448,
-    "timeMonth": 449,
+    "timeDay": 319,
+    "timeWeek": 447,
+    "timeMonth": 451,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2026-06-07": 259,
@@ -246,7 +248,8 @@
       "2026-07-12": 991,
       "2026-07-13": 995,
       "2026-07-14": 912,
-      "2026-07-15": 845
+      "2026-07-15": 852,
+      "2026-07-16": 87
     }
   },
   {
@@ -262,8 +265,8 @@
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 39,
-    "timeWeek": 51,
-    "timeMonth": 46,
+    "timeWeek": 48,
+    "timeMonth": 47,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -280,8 +283,8 @@
     "uptimeYear": "100.00%",
     "time": 516,
     "timeDay": 496,
-    "timeWeek": 486,
-    "timeMonth": 501,
+    "timeWeek": 484,
+    "timeMonth": 498,
     "timeYear": 530,
     "dailyMinutesDown": {}
   },
@@ -291,15 +294,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/yes2move.com.ico",
     "slug": "yes2-move-com",
     "status": "down",
-    "uptime": "97.96%",
-    "uptimeDay": "40.87%",
-    "uptimeWeek": "37.01%",
-    "uptimeMonth": "29.09%",
-    "uptimeYear": "92.53%",
+    "uptime": "97.95%",
+    "uptimeDay": "38.86%",
+    "uptimeWeek": "36.95%",
+    "uptimeMonth": "29.02%",
+    "uptimeYear": "92.52%",
     "time": 473,
-    "timeDay": 263,
-    "timeWeek": 272,
-    "timeMonth": 278,
+    "timeDay": 238,
+    "timeWeek": 267,
+    "timeMonth": 280,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2026-06-07": 897,
@@ -340,7 +343,8 @@
       "2026-07-12": 991,
       "2026-07-13": 995,
       "2026-07-14": 969,
-      "2026-07-15": 845
+      "2026-07-15": 851,
+      "2026-07-16": 88
     }
   },
   {
@@ -353,11 +357,11 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.73%",
-    "uptimeYear": "74.11%",
+    "uptimeYear": "74.09%",
     "time": 2295,
     "timeDay": 145,
-    "timeWeek": 134,
-    "timeMonth": 88,
+    "timeWeek": 143,
+    "timeMonth": 90,
     "timeYear": 1831,
     "dailyMinutesDown": {
       "2025-12-30": 42,
@@ -473,7 +477,8 @@
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 228,
-      "2026-07-15": 1434,
+      "2026-07-16": 88,
+      "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -507,7 +512,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.60%",
+    "uptimeYear": "84.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -569,8 +574,7 @@
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
-      "2025-07-17": 1440,
-      "2025-07-16": 1440
+      "2025-07-17": 1440
     }
   },
   {
@@ -586,8 +590,8 @@
     "uptimeYear": "99.28%",
     "time": 814,
     "timeDay": 499,
-    "timeWeek": 795,
-    "timeMonth": 719,
+    "timeWeek": 654,
+    "timeMonth": 729,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2025-08-26": 58,
@@ -626,8 +630,8 @@
     "uptimeYear": "99.98%",
     "time": 2101,
     "timeDay": 1784,
-    "timeWeek": 1984,
-    "timeMonth": 2042,
+    "timeWeek": 1940,
+    "timeMonth": 2030,
     "timeYear": 2066,
     "dailyMinutesDown": {
       "2026-03-24": 103
